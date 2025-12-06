@@ -1,0 +1,27 @@
+Muon vs Others - Depth Comparison Report
+========================================
+
+--- Model Depth: 3 Layers ---
+Muon       : 77.57%
+RMSprop    : 74.15%
+Adam       : 74.09%
+SGD        : 73.61%
+
+--- Model Depth: 4 Layers ---
+Muon       : 79.90%
+Adam       : 78.30%
+RMSprop    : 77.60%
+SGD        : 77.47%
+
+--- Model Depth: 5 Layers ---
+Muon       : 81.77%
+RMSprop    : 78.19%
+SGD        : 78.02%
+Adam       : 77.43%
+
+--- Model Depth: 6 Layers ---
+Muon       : 82.55%
+Adam       : 78.28%
+SGD        : 78.27%
+RMSprop    : 76.55%
+

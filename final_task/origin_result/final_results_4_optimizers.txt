@@ -1,0 +1,8 @@
+Optimization Algorithm Comparison (CIFAR-10)
+============================================
+Optimizer       | Final Test Acc  | Final Train Loss
+-------------------------------------------------------
+Adam            | 75.28%          | 0.0980
+SGD             | 74.69%          | 0.1520
+RMSprop         | 73.41%          | 0.1087
+Muon            | 70.45%          | 0.4569
